@@ -1,0 +1,6 @@
+{
+	"prettier.useTabs": true,
+	"[postcss]": {
+		"editor.defaultFormatter": null
+	}
+}
